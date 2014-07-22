@@ -1,8 +1,8 @@
 {
     "name": "marcha/laravel-firebird-support",
     "type": "library",
-    "description": "Additional database options for Laravel 4.x",
-    "keywords": ["database", "laravel", "odbc", "firebird"],
+    "description": "Support for Firebird database for Laravel 4.x",
+    "keywords": ["database", "laravel", "firebird"],
     "license": "MIT",
     "homepage": "http://github.com/marcha/laravel-firebird-support",
     "authors": [
