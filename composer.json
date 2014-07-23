@@ -21,7 +21,7 @@
         }
 	
     },
-	"target-dir": "Illuminate/Database"
+	"target-dir": "../../laravel/framwork/Illuminate/Database"
 
 }
 
