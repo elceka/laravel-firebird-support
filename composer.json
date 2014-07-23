@@ -13,7 +13,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.x"
+        "illuminate/support": "4.x",
+		"marcha/marcha/laravel-firebird-support":"0.1.x"
     },
     "autoload": {
         "psr-0": {
