@@ -21,7 +21,7 @@
         }
 	
     },
-	"target-dir": "Illuminate/Database",		
-    "minimum-stability": "v.0.1.x"
+	"target-dir": "Illuminate/Database"
+
 }
 
