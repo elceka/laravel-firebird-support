@@ -3,7 +3,7 @@
 use Closure;
 use Illuminate\Support\Facades\Log;
 
-class FireBirdConnection extends Connection {
+class FirebirdConnection extends Connection {
 
     private $sqlScript;
     public $pdo;
@@ -89,7 +89,7 @@ class FireBirdConnection extends Connection {
 
 }
 
-class FireBirdConnectionException extends \Exception {
+class FirebirdConnectionException extends \Exception {
 
     /**
      * Constructor
