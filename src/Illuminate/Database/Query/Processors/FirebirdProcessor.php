@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Query\Builder;
 
-class PostgresProcessor extends Processor {
+class FirebirdProcessor extends Processor {
 
 	/**
 	 * Process an "insert get ID" query.
