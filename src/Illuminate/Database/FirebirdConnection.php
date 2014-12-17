@@ -86,6 +86,11 @@ class FirebirdConnection extends Connection {
 		return null;
 		// $this->withTablePrefix(new Schema\Grammars\FirebirdGrammar);
 	}
+	
+	protected function getDefaultPostProcessor()
+	{
+		return new Query\Processors\FirebirdProcessor;
+	}
 
 }
 
